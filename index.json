@@ -1,0 +1,7 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "title": "com.fca.fca-visual-elements-library | VisualElementsLibrary Documentation",
+    "keywords": "com.fca.fca-visual-elements-library Your package description here. Installation To install this package, follow the instructions below: Open Unity. Go to Window > Package Manager. Click on the \"+\" button at the top left of the window. Choose \"Add package from disk...\". Select the package.json file in the root of this repository. License This package is licensed under the MIT License ."
+  }
+}
