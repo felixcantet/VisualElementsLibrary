@@ -1,4 +1,14 @@
 {
+  "api/FCA.VisualElements.BaseVisualElementWithCallback-1.html": {
+    "href": "api/FCA.VisualElements.BaseVisualElementWithCallback-1.html",
+    "title": "Class BaseVisualElementWithCallback<T> | VisualElementsLibrary Documentation",
+    "keywords": "Class BaseVisualElementWithCallback<T> Base class for VisualElements that have a value and send a change event when the value is changed. Use this to avoid boiletplate code for sending change events. Inheritance Object BaseVisualElementWithCallback<T> Implements INotifyValueChanged <T> Namespace : FCA.VisualElements Assembly : cs.temp.dll.dll Syntax public abstract class BaseVisualElementWithCallback<T> : UnityEngine.UIElements.VisualElement Type Parameters Name Description T Could be any type Fields _value The protected value that is used to store the value of the element. Declaration protected T _value Field Value Type Description T Properties value The value that is stored in the element. Trigger a change event when set. Declaration public T value { get; set; } Property Value Type Description T Methods SetValueWithoutNotify(T) Set the contained value without sending a change event. Declaration public void SetValueWithoutNotify(T newValue) Parameters Type Name Description T newValue The new value of the element Implements INotifyValueChanged<>"
+  },
+  "api/FCA.VisualElements.html": {
+    "href": "api/FCA.VisualElements.html",
+    "title": "Namespace FCA.VisualElements | VisualElementsLibrary Documentation",
+    "keywords": "Namespace FCA.VisualElements Classes BaseVisualElementWithCallback<T> Base class for VisualElements that have a value and send a change event when the value is changed. Use this to avoid boiletplate code for sending change events."
+  },
   "index.html": {
     "href": "index.html",
     "title": "com.fca.fca-visual-elements-library | VisualElementsLibrary Documentation",

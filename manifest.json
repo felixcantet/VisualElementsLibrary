@@ -2,6 +2,7 @@
   "sitemap": {
     "fileOptions": {
       "api/*": {
+        "baseUrl": "https://felixcantet.github.io/VisualElementsLibrary/",
         "changefreq": "daily"
       }
     },
@@ -20,6 +21,42 @@
         }
       },
       "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FCA.VisualElements.BaseVisualElementWithCallback-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FCA.VisualElements.BaseVisualElementWithCallback-1.html",
+          "hash": "h5PxZgF9gIAqG2MPUxdrw5Bw7vx/xKS++MdO3zMQz0Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FCA.VisualElements.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FCA.VisualElements.html",
+          "hash": "Lo8NEY+HqVcBL40wHi8SGkfSY1/fGMa3iBnMoZvH1uA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "yPbfCgdkIsWigSmcRA3tvWblVjGuFm0lYXxrMouuaQc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
     },
     {
       "log_codes": [
@@ -42,7 +79,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "Da6sDFOFElUBSgwBa/CYR8tjbQ5Gqr1SgXTuF91C/0E="
+          "hash": "LFVv0hDju0Oinubr4Y/1e8iDyZ4P/8YLPq/SqCdt7IM="
         }
       },
       "is_incremental": false,
@@ -64,6 +101,12 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

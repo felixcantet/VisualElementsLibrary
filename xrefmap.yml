@@ -1,3 +1,60 @@
 ### YamlMime:XRefMap
 sorted: true
-references: []
+references:
+- uid: FCA.VisualElements
+  name: FCA.VisualElements
+  href: api/FCA.VisualElements.html
+  commentId: N:FCA.VisualElements
+  fullName: FCA.VisualElements
+  nameWithType: FCA.VisualElements
+- uid: FCA.VisualElements.BaseVisualElementWithCallback`1
+  name: BaseVisualElementWithCallback<T>
+  href: api/FCA.VisualElements.BaseVisualElementWithCallback-1.html
+  commentId: T:FCA.VisualElements.BaseVisualElementWithCallback`1
+  name.vb: BaseVisualElementWithCallback(Of T)
+  fullName: FCA.VisualElements.BaseVisualElementWithCallback<T>
+  fullName.vb: FCA.VisualElements.BaseVisualElementWithCallback(Of T)
+  nameWithType: BaseVisualElementWithCallback<T>
+  nameWithType.vb: BaseVisualElementWithCallback(Of T)
+- uid: FCA.VisualElements.BaseVisualElementWithCallback`1._value
+  name: _value
+  href: api/FCA.VisualElements.BaseVisualElementWithCallback-1.html#FCA_VisualElements_BaseVisualElementWithCallback_1__value
+  commentId: F:FCA.VisualElements.BaseVisualElementWithCallback`1._value
+  fullName: FCA.VisualElements.BaseVisualElementWithCallback<T>._value
+  fullName.vb: FCA.VisualElements.BaseVisualElementWithCallback(Of T)._value
+  nameWithType: BaseVisualElementWithCallback<T>._value
+  nameWithType.vb: BaseVisualElementWithCallback(Of T)._value
+- uid: FCA.VisualElements.BaseVisualElementWithCallback`1.SetValueWithoutNotify(`0)
+  name: SetValueWithoutNotify(T)
+  href: api/FCA.VisualElements.BaseVisualElementWithCallback-1.html#FCA_VisualElements_BaseVisualElementWithCallback_1_SetValueWithoutNotify__0_
+  commentId: M:FCA.VisualElements.BaseVisualElementWithCallback`1.SetValueWithoutNotify(`0)
+  fullName: FCA.VisualElements.BaseVisualElementWithCallback<T>.SetValueWithoutNotify(T)
+  fullName.vb: FCA.VisualElements.BaseVisualElementWithCallback(Of T).SetValueWithoutNotify(T)
+  nameWithType: BaseVisualElementWithCallback<T>.SetValueWithoutNotify(T)
+  nameWithType.vb: BaseVisualElementWithCallback(Of T).SetValueWithoutNotify(T)
+- uid: FCA.VisualElements.BaseVisualElementWithCallback`1.SetValueWithoutNotify*
+  name: SetValueWithoutNotify
+  href: api/FCA.VisualElements.BaseVisualElementWithCallback-1.html#FCA_VisualElements_BaseVisualElementWithCallback_1_SetValueWithoutNotify_
+  commentId: Overload:FCA.VisualElements.BaseVisualElementWithCallback`1.SetValueWithoutNotify
+  isSpec: "True"
+  fullName: FCA.VisualElements.BaseVisualElementWithCallback<T>.SetValueWithoutNotify
+  fullName.vb: FCA.VisualElements.BaseVisualElementWithCallback(Of T).SetValueWithoutNotify
+  nameWithType: BaseVisualElementWithCallback<T>.SetValueWithoutNotify
+  nameWithType.vb: BaseVisualElementWithCallback(Of T).SetValueWithoutNotify
+- uid: FCA.VisualElements.BaseVisualElementWithCallback`1.value
+  name: value
+  href: api/FCA.VisualElements.BaseVisualElementWithCallback-1.html#FCA_VisualElements_BaseVisualElementWithCallback_1_value
+  commentId: P:FCA.VisualElements.BaseVisualElementWithCallback`1.value
+  fullName: FCA.VisualElements.BaseVisualElementWithCallback<T>.value
+  fullName.vb: FCA.VisualElements.BaseVisualElementWithCallback(Of T).value
+  nameWithType: BaseVisualElementWithCallback<T>.value
+  nameWithType.vb: BaseVisualElementWithCallback(Of T).value
+- uid: FCA.VisualElements.BaseVisualElementWithCallback`1.value*
+  name: value
+  href: api/FCA.VisualElements.BaseVisualElementWithCallback-1.html#FCA_VisualElements_BaseVisualElementWithCallback_1_value_
+  commentId: Overload:FCA.VisualElements.BaseVisualElementWithCallback`1.value
+  isSpec: "True"
+  fullName: FCA.VisualElements.BaseVisualElementWithCallback<T>.value
+  fullName.vb: FCA.VisualElements.BaseVisualElementWithCallback(Of T).value
+  nameWithType: BaseVisualElementWithCallback<T>.value
+  nameWithType.vb: BaseVisualElementWithCallback(Of T).value
