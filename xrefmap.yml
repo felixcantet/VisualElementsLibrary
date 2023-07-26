@@ -58,3 +58,159 @@ references:
   fullName.vb: FCA.VisualElements.BaseVisualElementWithCallback(Of T).value
   nameWithType: BaseVisualElementWithCallback<T>.value
   nameWithType.vb: BaseVisualElementWithCallback(Of T).value
+- uid: FCA.VisualElements.FoldoutTitle
+  name: FoldoutTitle
+  href: api/FCA.VisualElements.FoldoutTitle.html
+  commentId: T:FCA.VisualElements.FoldoutTitle
+  fullName: FCA.VisualElements.FoldoutTitle
+  nameWithType: FoldoutTitle
+- uid: FCA.VisualElements.FoldoutTitle.#ctor(System.String)
+  name: FoldoutTitle(String)
+  href: api/FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle__ctor_System_String_
+  commentId: M:FCA.VisualElements.FoldoutTitle.#ctor(System.String)
+  fullName: FCA.VisualElements.FoldoutTitle.FoldoutTitle(System.String)
+  nameWithType: FoldoutTitle.FoldoutTitle(String)
+- uid: FCA.VisualElements.FoldoutTitle.#ctor*
+  name: FoldoutTitle
+  href: api/FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle__ctor_
+  commentId: Overload:FCA.VisualElements.FoldoutTitle.#ctor
+  isSpec: "True"
+  fullName: FCA.VisualElements.FoldoutTitle.FoldoutTitle
+  nameWithType: FoldoutTitle.FoldoutTitle
+- uid: FCA.VisualElements.FoldoutTitle.AddToFoldout*
+  name: AddToFoldout
+  href: api/FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_AddToFoldout_
+  commentId: Overload:FCA.VisualElements.FoldoutTitle.AddToFoldout
+  isSpec: "True"
+  fullName: FCA.VisualElements.FoldoutTitle.AddToFoldout
+  nameWithType: FoldoutTitle.AddToFoldout
+- uid: FCA.VisualElements.FoldoutTitle.AddToFoldout``1(``0)
+  name: AddToFoldout<T>(T)
+  href: api/FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_AddToFoldout__1___0_
+  commentId: M:FCA.VisualElements.FoldoutTitle.AddToFoldout``1(``0)
+  name.vb: AddToFoldout(Of T)(T)
+  fullName: FCA.VisualElements.FoldoutTitle.AddToFoldout<T>(T)
+  fullName.vb: FCA.VisualElements.FoldoutTitle.AddToFoldout(Of T)(T)
+  nameWithType: FoldoutTitle.AddToFoldout<T>(T)
+  nameWithType.vb: FoldoutTitle.AddToFoldout(Of T)(T)
+- uid: FCA.VisualElements.FoldoutTitle.m_foldout
+  name: m_foldout
+  href: api/FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_m_foldout
+  commentId: F:FCA.VisualElements.FoldoutTitle.m_foldout
+  fullName: FCA.VisualElements.FoldoutTitle.m_foldout
+  nameWithType: FoldoutTitle.m_foldout
+- uid: FCA.VisualElements.FoldoutTitle.m_title
+  name: m_title
+  href: api/FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_m_title
+  commentId: F:FCA.VisualElements.FoldoutTitle.m_title
+  fullName: FCA.VisualElements.FoldoutTitle.m_title
+  nameWithType: FoldoutTitle.m_title
+- uid: FCA.VisualElements.FoldoutTitle.SetFoldoutState(System.Boolean)
+  name: SetFoldoutState(Boolean)
+  href: api/FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_SetFoldoutState_System_Boolean_
+  commentId: M:FCA.VisualElements.FoldoutTitle.SetFoldoutState(System.Boolean)
+  fullName: FCA.VisualElements.FoldoutTitle.SetFoldoutState(System.Boolean)
+  nameWithType: FoldoutTitle.SetFoldoutState(Boolean)
+- uid: FCA.VisualElements.FoldoutTitle.SetFoldoutState*
+  name: SetFoldoutState
+  href: api/FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_SetFoldoutState_
+  commentId: Overload:FCA.VisualElements.FoldoutTitle.SetFoldoutState
+  isSpec: "True"
+  fullName: FCA.VisualElements.FoldoutTitle.SetFoldoutState
+  nameWithType: FoldoutTitle.SetFoldoutState
+- uid: FCA.VisualElements.FoldoutTitle.SetTitle(System.String)
+  name: SetTitle(String)
+  href: api/FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_SetTitle_System_String_
+  commentId: M:FCA.VisualElements.FoldoutTitle.SetTitle(System.String)
+  fullName: FCA.VisualElements.FoldoutTitle.SetTitle(System.String)
+  nameWithType: FoldoutTitle.SetTitle(String)
+- uid: FCA.VisualElements.FoldoutTitle.SetTitle*
+  name: SetTitle
+  href: api/FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_SetTitle_
+  commentId: Overload:FCA.VisualElements.FoldoutTitle.SetTitle
+  isSpec: "True"
+  fullName: FCA.VisualElements.FoldoutTitle.SetTitle
+  nameWithType: FoldoutTitle.SetTitle
+- uid: FCA.VisualElements.FoldoutTitle.Title
+  name: Title
+  href: api/FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_Title
+  commentId: P:FCA.VisualElements.FoldoutTitle.Title
+  fullName: FCA.VisualElements.FoldoutTitle.Title
+  nameWithType: FoldoutTitle.Title
+- uid: FCA.VisualElements.FoldoutTitle.Title*
+  name: Title
+  href: api/FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_Title_
+  commentId: Overload:FCA.VisualElements.FoldoutTitle.Title
+  isSpec: "True"
+  fullName: FCA.VisualElements.FoldoutTitle.Title
+  nameWithType: FoldoutTitle.Title
+- uid: FCA.VisualElements.FoldoutToggle
+  name: FoldoutToggle
+  href: api/FCA.VisualElements.FoldoutToggle.html
+  commentId: T:FCA.VisualElements.FoldoutToggle
+  fullName: FCA.VisualElements.FoldoutToggle
+  nameWithType: FoldoutToggle
+- uid: FCA.VisualElements.FoldoutToggle.#ctor(System.String,System.Boolean)
+  name: FoldoutToggle(String, Boolean)
+  href: api/FCA.VisualElements.FoldoutToggle.html#FCA_VisualElements_FoldoutToggle__ctor_System_String_System_Boolean_
+  commentId: M:FCA.VisualElements.FoldoutToggle.#ctor(System.String,System.Boolean)
+  fullName: FCA.VisualElements.FoldoutToggle.FoldoutToggle(System.String, System.Boolean)
+  nameWithType: FoldoutToggle.FoldoutToggle(String, Boolean)
+- uid: FCA.VisualElements.FoldoutToggle.#ctor*
+  name: FoldoutToggle
+  href: api/FCA.VisualElements.FoldoutToggle.html#FCA_VisualElements_FoldoutToggle__ctor_
+  commentId: Overload:FCA.VisualElements.FoldoutToggle.#ctor
+  isSpec: "True"
+  fullName: FCA.VisualElements.FoldoutToggle.FoldoutToggle
+  nameWithType: FoldoutToggle.FoldoutToggle
+- uid: FCA.VisualElements.FoldoutToggle.RegisterToggleCallback(EventCallback{ChangeEvent{System.Boolean}})
+  name: RegisterToggleCallback(EventCallback<ChangeEvent<Boolean>>)
+  href: api/FCA.VisualElements.FoldoutToggle.html#FCA_VisualElements_FoldoutToggle_RegisterToggleCallback_EventCallback_ChangeEvent_System_Boolean___
+  commentId: M:FCA.VisualElements.FoldoutToggle.RegisterToggleCallback(EventCallback{ChangeEvent{System.Boolean}})
+  name.vb: RegisterToggleCallback(EventCallback(Of ChangeEvent(Of Boolean)))
+  fullName: FCA.VisualElements.FoldoutToggle.RegisterToggleCallback(EventCallback<ChangeEvent<System.Boolean>>)
+  fullName.vb: FCA.VisualElements.FoldoutToggle.RegisterToggleCallback(EventCallback(Of ChangeEvent(Of System.Boolean)))
+  nameWithType: FoldoutToggle.RegisterToggleCallback(EventCallback<ChangeEvent<Boolean>>)
+  nameWithType.vb: FoldoutToggle.RegisterToggleCallback(EventCallback(Of ChangeEvent(Of Boolean)))
+- uid: FCA.VisualElements.FoldoutToggle.RegisterToggleCallback*
+  name: RegisterToggleCallback
+  href: api/FCA.VisualElements.FoldoutToggle.html#FCA_VisualElements_FoldoutToggle_RegisterToggleCallback_
+  commentId: Overload:FCA.VisualElements.FoldoutToggle.RegisterToggleCallback
+  isSpec: "True"
+  fullName: FCA.VisualElements.FoldoutToggle.RegisterToggleCallback
+  nameWithType: FoldoutToggle.RegisterToggleCallback
+- uid: FCA.VisualElements.FoldoutToggle.toggle
+  name: toggle
+  href: api/FCA.VisualElements.FoldoutToggle.html#FCA_VisualElements_FoldoutToggle_toggle
+  commentId: P:FCA.VisualElements.FoldoutToggle.toggle
+  fullName: FCA.VisualElements.FoldoutToggle.toggle
+  nameWithType: FoldoutToggle.toggle
+- uid: FCA.VisualElements.FoldoutToggle.toggle*
+  name: toggle
+  href: api/FCA.VisualElements.FoldoutToggle.html#FCA_VisualElements_FoldoutToggle_toggle_
+  commentId: Overload:FCA.VisualElements.FoldoutToggle.toggle
+  isSpec: "True"
+  fullName: FCA.VisualElements.FoldoutToggle.toggle
+  nameWithType: FoldoutToggle.toggle
+- uid: FCA.VisualElements.VisualElementsExtensions
+  name: VisualElementsExtensions
+  href: api/FCA.VisualElements.VisualElementsExtensions.html
+  commentId: T:FCA.VisualElements.VisualElementsExtensions
+  fullName: FCA.VisualElements.VisualElementsExtensions
+  nameWithType: VisualElementsExtensions
+- uid: FCA.VisualElements.VisualElementsExtensions.AddChild*
+  name: AddChild
+  href: api/FCA.VisualElements.VisualElementsExtensions.html#FCA_VisualElements_VisualElementsExtensions_AddChild_
+  commentId: Overload:FCA.VisualElements.VisualElementsExtensions.AddChild
+  isSpec: "True"
+  fullName: FCA.VisualElements.VisualElementsExtensions.AddChild
+  nameWithType: VisualElementsExtensions.AddChild
+- uid: FCA.VisualElements.VisualElementsExtensions.AddChild``1(VisualElement,``0)
+  name: AddChild<T>(VisualElement, T)
+  href: api/FCA.VisualElements.VisualElementsExtensions.html#FCA_VisualElements_VisualElementsExtensions_AddChild__1_VisualElement___0_
+  commentId: M:FCA.VisualElements.VisualElementsExtensions.AddChild``1(VisualElement,``0)
+  name.vb: AddChild(Of T)(VisualElement, T)
+  fullName: FCA.VisualElements.VisualElementsExtensions.AddChild<T>(VisualElement, T)
+  fullName.vb: FCA.VisualElements.VisualElementsExtensions.AddChild(Of T)(VisualElement, T)
+  nameWithType: VisualElementsExtensions.AddChild<T>(VisualElement, T)
+  nameWithType.vb: VisualElementsExtensions.AddChild(Of T)(VisualElement, T)

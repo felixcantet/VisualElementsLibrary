@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class BaseVisualElementWithCallback&lt;T&gt;
+    <title>Class FoldoutToggle
    | VisualElementsLibrary Documentation </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class BaseVisualElementWithCallback&lt;T&gt;
+    <meta name="title" content="Class FoldoutToggle
    | VisualElementsLibrary Documentation ">
     <meta name="generator" content="docfx 2.59.4.0">
     
@@ -78,115 +78,71 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="FCA.VisualElements.BaseVisualElementWithCallback`1">
+            <article class="content wrap" id="_content" data-uid="FCA.VisualElements.FoldoutToggle">
   
   
-  <h1 id="FCA_VisualElements_BaseVisualElementWithCallback_1" data-uid="FCA.VisualElements.BaseVisualElementWithCallback`1" class="text-break">Class BaseVisualElementWithCallback&lt;T&gt;
+  <h1 id="FCA_VisualElements_FoldoutToggle" data-uid="FCA.VisualElements.FoldoutToggle" class="text-break">Class FoldoutToggle
   </h1>
-  <div class="markdown level0 summary"><p>Base class for VisualElements that have a value and send a change event when the value is changed.
-Use this to avoid boiletplate code for sending change events.</p>
-</div>
+  <div class="markdown level0 summary"></div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">Object</a></div>
-    <div class="level1"><span class="xref">BaseVisualElementWithCallback&lt;T&gt;</span></div>
-      <div class="level2"><a class="xref" href="FCA.VisualElements.FoldoutTitle.html">FoldoutTitle</a></div>
+    <div class="level1"><a class="xref" href="FCA.VisualElements.BaseVisualElementWithCallback-1.html">BaseVisualElementWithCallback</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a>&gt;</div>
+    <div class="level2"><a class="xref" href="FCA.VisualElements.FoldoutTitle.html">FoldoutTitle</a></div>
+    <div class="level3"><span class="xref">FoldoutToggle</span></div>
   </div>
   <div class="implements">
     <h5>Implements</h5>
-    <div><span class="xref">INotifyValueChanged</span>&lt;T&gt;</div>
+    <div><span class="xref">INotifyValueChanged</span>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a>&gt;</div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_m_foldout">FoldoutTitle.m_foldout</a>
+    </div>
+    <div>
+      <a class="xref" href="FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_m_title">FoldoutTitle.m_title</a>
+    </div>
+    <div>
+      <a class="xref" href="FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_Title">FoldoutTitle.Title</a>
+    </div>
+    <div>
+      <a class="xref" href="FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_SetTitle_System_String_">FoldoutTitle.SetTitle(String)</a>
+    </div>
+    <div>
+      <a class="xref" href="FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_SetFoldoutState_System_Boolean_">FoldoutTitle.SetFoldoutState(Boolean)</a>
+    </div>
+    <div>
+      <a class="xref" href="FCA.VisualElements.FoldoutTitle.html#FCA_VisualElements_FoldoutTitle_AddToFoldout__1___0_">FoldoutTitle.AddToFoldout&lt;T&gt;(T)</a>
+    </div>
+    <div>
+      <a class="xref" href="FCA.VisualElements.BaseVisualElementWithCallback-1.html#FCA_VisualElements_BaseVisualElementWithCallback_1__value">BaseVisualElementWithCallback&lt;Boolean&gt;._value</a>
+    </div>
+    <div>
+      <a class="xref" href="FCA.VisualElements.BaseVisualElementWithCallback-1.html#FCA_VisualElements_BaseVisualElementWithCallback_1_SetValueWithoutNotify__0_">BaseVisualElementWithCallback&lt;Boolean&gt;.SetValueWithoutNotify(Boolean)</a>
+    </div>
+    <div>
+      <a class="xref" href="FCA.VisualElements.BaseVisualElementWithCallback-1.html#FCA_VisualElements_BaseVisualElementWithCallback_1_value">BaseVisualElementWithCallback&lt;Boolean&gt;.value</a>
+    </div>
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="FCA.VisualElements.html">FCA.VisualElements</a></h6>
   <h6><strong>Assembly</strong>: cs.temp.dll.dll</h6>
-  <h5 id="FCA_VisualElements_BaseVisualElementWithCallback_1_syntax">Syntax</h5>
+  <h5 id="FCA_VisualElements_FoldoutToggle_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public abstract class BaseVisualElementWithCallback&lt;T&gt; : UnityEngine.UIElements.VisualElement</code></pre>
+    <pre><code class="lang-csharp hljs">public class FoldoutToggle : FoldoutTitle</code></pre>
   </div>
-  <h5 class="typeParameters">Type Parameters</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Name</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="parametername">T</span></td>
-        <td><p>Could be any type</p>
-</td>
-      </tr>
-    </tbody>
-  </table>
-  <h3 id="fields">Fields
+  <h3 id="constructors">Constructors
   </h3>
   
   
-  <h4 id="FCA_VisualElements_BaseVisualElementWithCallback_1__value" data-uid="FCA.VisualElements.BaseVisualElementWithCallback`1._value">_value</h4>
-  <div class="markdown level1 summary"><p>The protected value that is used to store the value of the element.</p>
-</div>
+  <a id="FCA_VisualElements_FoldoutToggle__ctor_" data-uid="FCA.VisualElements.FoldoutToggle.#ctor*"></a>
+  <h4 id="FCA_VisualElements_FoldoutToggle__ctor_System_String_System_Boolean_" data-uid="FCA.VisualElements.FoldoutToggle.#ctor(System.String,System.Boolean)">FoldoutToggle(String, Boolean)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">protected T _value</code></pre>
-  </div>
-  <h5 class="fieldValue">Field Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">T</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <h3 id="properties">Properties
-  </h3>
-  
-  
-  <a id="FCA_VisualElements_BaseVisualElementWithCallback_1_value_" data-uid="FCA.VisualElements.BaseVisualElementWithCallback`1.value*"></a>
-  <h4 id="FCA_VisualElements_BaseVisualElementWithCallback_1_value" data-uid="FCA.VisualElements.BaseVisualElementWithCallback`1.value">value</h4>
-  <div class="markdown level1 summary"><p>The value that is stored in the element.
-Trigger a change event when set.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public T value { get; set; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">T</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <h3 id="methods">Methods
-  </h3>
-  
-  
-  <a id="FCA_VisualElements_BaseVisualElementWithCallback_1_SetValueWithoutNotify_" data-uid="FCA.VisualElements.BaseVisualElementWithCallback`1.SetValueWithoutNotify*"></a>
-  <h4 id="FCA_VisualElements_BaseVisualElementWithCallback_1_SetValueWithoutNotify__0_" data-uid="FCA.VisualElements.BaseVisualElementWithCallback`1.SetValueWithoutNotify(`0)">SetValueWithoutNotify(T)</h4>
-  <div class="markdown level1 summary"><p>Set the contained value without sending a change event.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void SetValueWithoutNotify(T newValue)</code></pre>
+    <pre><code class="lang-csharp hljs">public FoldoutToggle(string title, bool defaultState)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -199,10 +155,70 @@ Trigger a change event when set.</p>
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">T</span></td>
-        <td><span class="parametername">newValue</span></td>
-        <td><p>The new value of the element</p>
-</td>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">String</a></td>
+        <td><span class="parametername">title</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><span class="parametername">defaultState</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="FCA_VisualElements_FoldoutToggle_toggle_" data-uid="FCA.VisualElements.FoldoutToggle.toggle*"></a>
+  <h4 id="FCA_VisualElements_FoldoutToggle_toggle" data-uid="FCA.VisualElements.FoldoutToggle.toggle">toggle</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Toggle toggle { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Toggle</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="FCA_VisualElements_FoldoutToggle_RegisterToggleCallback_" data-uid="FCA.VisualElements.FoldoutToggle.RegisterToggleCallback*"></a>
+  <h4 id="FCA_VisualElements_FoldoutToggle_RegisterToggleCallback_EventCallback_ChangeEvent_System_Boolean___" data-uid="FCA.VisualElements.FoldoutToggle.RegisterToggleCallback(EventCallback{ChangeEvent{System.Boolean}})">RegisterToggleCallback(EventCallback&lt;ChangeEvent&lt;Boolean&gt;&gt;)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void RegisterToggleCallback(EventCallback&lt;ChangeEvent&lt;bool&gt;&gt; evt)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">EventCallback</span>&lt;<span class="xref">ChangeEvent</span>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a>&gt;&gt;</td>
+        <td><span class="parametername">evt</span></td>
+        <td></td>
       </tr>
     </tbody>
   </table>

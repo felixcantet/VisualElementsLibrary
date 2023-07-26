@@ -28,7 +28,43 @@
       "output": {
         ".html": {
           "relative_path": "api/FCA.VisualElements.BaseVisualElementWithCallback-1.html",
-          "hash": "h5PxZgF9gIAqG2MPUxdrw5Bw7vx/xKS++MdO3zMQz0Q="
+          "hash": "s84FFHqKYwXtBUAT1MoaOpdh4LsaFjwIRQPhm8A4Xfc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FCA.VisualElements.FoldoutTitle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FCA.VisualElements.FoldoutTitle.html",
+          "hash": "iD7kzZk3OClkbrCgAo9WqSwli0Y6J6zZe3f6zhIoawM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FCA.VisualElements.FoldoutToggle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FCA.VisualElements.FoldoutToggle.html",
+          "hash": "v+/4HEssuE3uS489kg1hIFew60uECjTvLqoaV48NMUQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FCA.VisualElements.VisualElementsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FCA.VisualElements.VisualElementsExtensions.html",
+          "hash": "mVlvvGGjTyldpnnCi9HVUBtlOJe9aADTVt3bx6kRru8="
         }
       },
       "is_incremental": false,
@@ -40,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "api/FCA.VisualElements.html",
-          "hash": "Lo8NEY+HqVcBL40wHi8SGkfSY1/fGMa3iBnMoZvH1uA="
+          "hash": "qTIXGuMEHNQuQkS5xY/0GZgIpfS551qrjKjAXLoM0hE="
         }
       },
       "is_incremental": false,
@@ -52,7 +88,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "yPbfCgdkIsWigSmcRA3tvWblVjGuFm0lYXxrMouuaQc="
+          "hash": "/QF2KMJIbcAGuvmkumT0ergovVaPp6U5TFRZNhbOCpA="
         }
       },
       "is_incremental": false,
@@ -106,7 +142,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 2,
+          "total_file_count": 5,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
